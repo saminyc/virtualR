@@ -23,7 +23,10 @@ const FeatureSection = () => {
                 {feature.icon}
               </div>
               <div>
-                <h5>{feature.text}</h5>
+                <h5 className="mt-4 mb-6 text-xl">{feature.text}</h5>
+                <p className="tracking-tight text-md mb-20 p-2 text-neutral-500">
+                  {feature.description}
+                </p>
               </div>
             </div>
           </div>
