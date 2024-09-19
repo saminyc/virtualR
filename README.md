@@ -2,7 +2,7 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Checkout the Site on: virtualr-mocha-two.vercel.app
+Checkout the Site on: [virtualR](virtualr-mocha-two.vercel.app)
 
 Currently, two official plugins are available:
 
